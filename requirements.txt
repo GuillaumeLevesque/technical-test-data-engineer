@@ -3,3 +3,8 @@ fastapi
 uvicorn
 fastapi_pagination
 pytest
+pytest-mock
+pydantic
+requests
+pandas
+schedule
